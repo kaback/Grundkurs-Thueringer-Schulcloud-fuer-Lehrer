@@ -68,6 +68,8 @@ Beispiele für Teams:
   * Der Chat ist die einzige Möglichkeit in der TSC, asynchron mit Schülern und Kollegen zu kommunizieren
 > Sie benötingen also ein Team, wenn Sie Ihre Schüler zur Teilnahme an einer terminierten Videokonferenz auffordern wollen.
 
+#### Wer legt ein Team für mich an?
+Sie sind der Lehrer, Sie legen das Team an. Niemand nimmt Ihnen diese Arbeit ab.
 ---
 
 ## Wie kann ich xyz in der TSC machen?
