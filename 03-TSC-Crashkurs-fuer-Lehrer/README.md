@@ -28,6 +28,12 @@ Beispiele für Kurse:
 * Mathematik Klasse 1a
 * Grundlagen der Elektrotechnik
 
+#### Wozu braucht man einen Kurs?
+* Kurse können Sie in einzelne Thmen untergliedern
+  * Die Themen lassen sich in Abschnitte untergliedern
+    * Einzelnen Abschnitten können Sie Aufgaben zuordnen
+> Sie benötigen also einen Kurs mit einem Thema, welches einen Abschnitt enthält, um Ihren Schülern eine Aufgabe stellen zu können!
+
 ### Organisationsstruktur Team
 Ein Team in der TSC dient der Organisation. Wann immer Sie ein organisatorisches Anliegen haben, nutzen Sie ein Team.
 
@@ -39,6 +45,13 @@ Beispiele für Teams:
 * Wandertag Klasse 4f
 * Abteilung 3
 * Faschschaft Kernphysik
+
+#### Wozu braucht man ein Team?
+* Teams verfügen über einen Kalender
+  * In diesem Kalender können Sie einen Eintrag erstellen, der im Kalender Ihrer Schüler sichtbar wird.
+    * Diesem Kalendereintrag können Sie eine Einladung zu einer Videokonferenz zuordnen
+> Sie benötingen also ein Team, wenn Sie Ihre Schüler zur Teilnahme an einer terminierten Videokonferenz auffordern wollen.
+
 
 ---
 
