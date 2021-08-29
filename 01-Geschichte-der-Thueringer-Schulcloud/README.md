@@ -5,9 +5,9 @@ Hier finden Informationen zu den geschichtlichen Hintergründen der Thüringer S
 ##
 
 ## Die Ausgangssituation
-In den Fokus einer breiteren Öffentlichkeit geriet die Schulcloud im November 2015, also weit vor Beginn der Corona-Pandemie.
+In den Fokus einer breiteren Öffentlichkeit geriet die Schulcloud im November 2015, __also weit vor Beginn der Corona-Pandemie__.
 
-Zu dieser Zeit beobachten Forscher an Hasso-Plattner-Institut, dass im Cloud-Zeitalter Computerräume in Schulen kaum dazu betragen können, die Verfügbarkeit von IT-Technik für Schuler zu Unterrichtszwecken zu verbessern.
+Zu dieser Zeit beobachten Forscher an Hasso-Plattner-Institut, dass im Cloud-Zeitalter Computerräume in Schulen kaum dazu beitragen können, die Verfügbarkeit von IT-Technik für Schuler zu Unterrichtszwecken zu verbessern.
 
 Über eine cloudbasierte Lössung sollten Schülern statt dessen Lernangebote gemacht werden, die diese dann auch auf den eigenen Mobiltelefonen, Tablets und PCs annehmen und nutzen könnten.
 
