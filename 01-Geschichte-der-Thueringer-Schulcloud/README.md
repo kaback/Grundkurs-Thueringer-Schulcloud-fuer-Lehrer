@@ -13,7 +13,7 @@ Zu dieser Zeit beobachten Forscher an Hasso-Plattner-Institut, dass im Cloud-Zei
 
 Ein kurzes Imagevideo vom November 2015 beschreibt dieses Konzept sehr ausführlich:
 
-[![Worum gehts in diesem Video?](https://img.youtube.com/vi/3e4iP7ezJDY/0.jpg)](https://www.youtube.com/watch?v=3e4iP7ezJDY)
+[![Videolink: HPI Schul-Cloud: Ein Pilotprojekt zur Digitalisierung des schulischen Lernens](https://img.youtube.com/vi/3e4iP7ezJDY/0.jpg)](https://www.youtube.com/watch?v=3e4iP7ezJDY)
 
 ## [Pre-lecture quiz](quiz-url)
 
