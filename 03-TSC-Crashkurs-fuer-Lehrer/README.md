@@ -34,6 +34,11 @@ Beispiele für Kurse:
     * Einzelnen Abschnitten können Sie Aufgaben zuordnen
 > Sie benötigen also einen Kurs mit einem Thema, welches einen Abschnitt enthält, um Ihren Schülern eine Aufgabe stellen zu können!
 
+#### Wer legt einen Kurs für mich an?
+Sie sind der Lehrer, Sie legen den Kurs an. Niemand nimmt Ihnen diese Arbeit ab. 
+* Sie können Kurse gemeinsam mit anderen Lehrern erstellen. 
+  * Wann immer Sie einen Lerninhalt gemeinsam mit Kollegen vermitteln (Lehrerteam), sollten Sie einen gemeinsamen Kurs erstellen. Für Sie bedeutet das, dass Sie sich mit Ihren Kollegen abstimmen müssen. Führ Ihre Schüler bedeutet das eine bessere Übersicht über die zu vermittelnden Lerninhalte
+
 ### Organisationsstruktur Team
 Ein Team in der TSC dient der Organisation. Wann immer Sie ein organisatorisches Anliegen haben, nutzen Sie ein Team.
 
