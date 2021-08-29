@@ -1,6 +1,6 @@
 <!-- Überschrift und Abstract-->
 # Geschichte der Thüringer Schulcloud
-Hier finden Informationen zu den geschichtlichen Hintergründen der Thüringer Schulcloud, ohne Anspruch auf Vollständigkeit.
+Hier finden Sie Informationen zu den geschichtlichen Hintergründen der Thüringer Schulcloud, ohne Anspruch auf Vollständigkeit.
 
 ##
 
@@ -15,50 +15,42 @@ Ein kurzes Imagevideo vom November 2015 beschreibt dieses Konzept sehr ausführl
 
 [![Videolink: HPI Schul-Cloud: Ein Pilotprojekt zur Digitalisierung des schulischen Lernens](https://img.youtube.com/vi/3e4iP7ezJDY/0.jpg)](https://www.youtube.com/watch?v=3e4iP7ezJDY)
 
-## [Pre-lecture quiz](quiz-url)
+<!-- ## [Pre-lecture quiz](quiz-url)
 
 [Hier steht, was man in dieser Lerneinheit lernen kann]
+-->
 
-### Einführung
+## Die Testphase
+Anfang 2017, also ebenfalls noch _weit vor Beginn der Corona-Pandemie_ startete eine Testphase des vom HPI entwickelten Prototypen __an 25 Schulen im gesamten Bundesgebeit__ (mit Ausnahme von Bremen, Hamburg und Thüringen).
 
-Hier beschreibst Du, was konkret an Inhalten von dieser Lerneinheit abgedeckt wird
+Die Dauer dieser Testphase wurde auf ein Jahr festgelegt. Erfahrungen aus dieser Testphase sollten in den weiteren Ausbau des Prototypen einfließen.
 
-> Hier stehen Hinweise
+Anschließend sollte das Pilotprojekt auf alle [MINT-EC Schulen](https://www.mint-ec.de/schulnetzwerk/mint-ec-schulen/) ausgeweitet werden, von denen sich auch 4 in Thüringen befinden.
 
-### Voraussetzungen
+## Das Thüringer Pilotprojekt
+Im Dezember 2019 gab das ThILLM den [Startschuß für ein Pilotprojekt mit einer speziellen thüringer Variante der HPI Schuldcloud](https://www.checkpoint-elearning.de/schule/startschuss-fuer-die-thueringer-schulcloud), die sogenannte Thüringer Schulcloud (TSC). Zur Teilnahme an diesem Pilotprojekt waren zunächst nur 20 thüringer Schulen vorgehesen.
 
-Welche Voraussetzung muss man mitbringen, um diese Lerneinheit bearbeiten zu können?
+Wesentlicher unterschied der TSC zur HPI-Cloud ist die Art und Weise, wie mit den personenbezogenen Daten der Nutzer umgegangen wird. Alle Accountdaten wie Nutzernamen und Passworte werden hier zentral durch das Thüringer Schulportal (TSP) verwaltet, und nicht, wie eigentlich in der HPI Schulcloud vorgesehen, durch die Schulcloud selbst. 
 
-### Vorbereitung
+Der sich daraus ergebende Vorteil im Hinblick auf den Datenschutz hat sich in der Vergangenheit allerdings oft als Nachteil erwiesen, da dadurch ein Login in die Schulcloud nicht möglich ist, wenn das Thüringer Schulportal eine Fehlfunktion aufweist.
 
-Vorbereitende Schritte für den Start der Lerneinheit
+## Corona
+Als im Februar 2020 die Corona-Pandemie auch Thüringen erreichte, wurde das bis dahin für rund 20 Schulen angedachte Pilotprojekt der Thüringer Schulcloud für alle thüringer Schulen geöffnet, allerdings ohne die dafür nötigen technischen und personellen Ressourcen entsprechend aufzustocken.
 
----
+Der darauf folgende Ansturm auf die TSC führte zu massiven Performanceproblemen bis hin zur vollständigen Unbenutzbarkeit der TSC, was zu einer [Welle der Kritik](https://www.coolis.de/2020/12/10/lehrer-lassen-schulen-in-thueringen-durchfallen/) an der TSC führte, die teils bis heute (August 2021) anhält..
 
-[Step through content in blocks]
+## Weiterbetrieb der Thüringer Schulcloud nach Ende des Pilotprojekts
 
-## [Thema 1]
+Mit Ende des Schuljahres 2020/21 endete mit dem Schulcloud-Pilotprojekt auch das Pilotprojekt Thüringer Schulcloud und damit auch die Weiterentwicklung und die Betreuung der Schulcloud durch das HPI. 
 
-### Auftrag:
+[![Videolink: HPI Schul-Cloud: Vom Pilotprojekt zur Infrastruktur](https://img.youtube.com/vi/iK-mu9aQnv4/0.jpg)](https://www.youtube.com/watch?v=iK-mu9aQnv4)
 
-Arbeitet im Team daran, den folgenden Code zu verbessern und teilt euer Arbeitsergebnis auf Github:
+Thüringen [entschied sich im Juni 2021 für einen Weiterbetrieb](https://bildung.thueringen.de/aktuell/weiterentwicklung-schulcloud) und einer Weiterentwicklung der Schulcloud auch über das Ende des Pilotbetriebes hinaus, gemeinsam mit Brandenburg und Niedersachsen.
 
-```html
-code blocks
-```
+Den Auftrag für den Betrieb und die Weiterentwciklung der Schulcloud [erhielt dazu die Dataport AöR](https://www.dataport.de/nachricht/vertrag-hpi-schulcloud/), die dazu auch einen großen Teil der ehemaligen Mitarbeiter des Forschungsprojektes am HPI übernimmt.
 
-✅ Zwischentest - stelle offene Fragen, um bisher erlerntes Wissen zu vertiefen
+Die Schulcloud soll nach den [Vorstellungen des thüringer Bildungsministers](https://www.mdr.de/nachrichten/thueringen/schulcloud-corona-helmut-holter-100.html) zukünftig ein fester Bestandteil des Schulalltags in Thüringen sein.
 
-## [Thema 2]
+## Fazit
 
-## [Thema 3]
-
-🚀 Challenge: Stelle eine herausfordernde Aufgabe, die von den Lernenden kollaborativ gelöst werden soll.
-
-Optional: Füge einen Screenshot des gewünschten Arbeitsergebnisses hinzu
-
-## [Abschlusstest](quiz-url)
-
-## Hausaufgaben & Weiterführende Informationen
-
-**Hausaufgabe bis [MM/YY]**: [Assignment Name](assignment.md)
+Die Corona-Pandemie katapultiuerte die Schulcloud von einem Pilotprojekt zu einem unverzichtbaren Werkzeug. Den ehemaligen Pilotprojektstatus merkt man der Schulcloud jedoch immernoch deutlich an. Es bleibt abzuwarten, welchen Weg die Entwicklung der Schulcloud zukünftig einschlägt.
