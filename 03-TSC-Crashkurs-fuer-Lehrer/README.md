@@ -64,8 +64,45 @@ Beispiele für Teams:
 * Teams verfügen über einen Kalender
   * In diesem Kalender können Sie einen Eintrag erstellen, der im Kalender Ihrer Schüler sichtbar wird.
     * Diesem Kalendereintrag können Sie eine Einladung zu einer Videokonferenz zuordnen
+* Teams verfügen über eine Chatfunktion
+  * Der Chat ist die einzige Möglichkeit in der TSC, asynchron mit Schülern und Kollegen zu kommunizieren
 > Sie benötingen also ein Team, wenn Sie Ihre Schüler zur Teilnahme an einer terminierten Videokonferenz auffordern wollen.
-
 
 ---
 
+## Wie kann ich xyz in der TSC machen?
+Hier folgt eine kleine Zusammenstellung von typischen Workflows.
+Wichtig:
+> Planen Sie zu jedem Workflow einen Testlauf mit Ihren KursteilnehmerInnen ein. Sturzen Sie weder Sich noch Ihre TeilnehmerInnen ins kalte Wasser!
+
+### Wie kommuniziere ich asynchron mit Schülern?
+Es gibt zwei Möglichkeiten
+1. Nutzen Sie dazu den Chat in einem Klassenzimmer-Team. Achtung: Die Chatfunktion muss bei der Erstellung eines Teams aktiviert werden.
+1. Per E-Mail. Legen Sie dazu eine Liste in Ihrem Thüringer Lehrer-Mailaccount an.
+
+### Wie plane ich eine Videokonferenz?
+Es gibt mehrere Möglichkeiten
+1. ~~Über einen Termin, den Sie direkt in Ihrem Terminkalender anlegen.~~ Hier scheint aber aktuell etwas kaputt zu sein...
+1. Über einen Termin, den Sie direkt im Team anlegen
+1. Über das Tool "Videokonferenz" in einem Kurs, allerdings müssen Sie den konkreten Termin hier auf anderem Wege, z.B. per Mail mit allen Teilnehmern absprechen.
+
+### Wie erteile ich Kurszeilnehmern eine Aufgabe?
+Es gibt mehrere Möglichkeiten
+1. Fügen Sie einem existierenden Thema innerhalb eines Kurses eine Aufgabe hinzu.
+2. Erstellen Sie eine Aufgabe über Aufgaben->Aufgabe hinzufügen, hierzu muss bereits ein Kurs mit einem Thema existieren
+
+Aufgaben können auch ohne eindeutige Zuordnung zu einem Thema eines Kurses erstellt werden, sie erhalten dann aber einen Entwurfsstatus und sind nur für Sie selbst sichtbar (privat)
+
+Wenn Sie die gleiche Aufgabe in mehreren Kursen stellen wollen, können Sie bestehende Aufgaben duplizieren.
+
+Diese lose Kopplung von Aufgaben und Kursthemen bietet Vor- und Nachteile. So bleiben Aufaben bestehen, wenn Sie Kursthemen löschen, werden dann aber auch unsichtbar (privat)
+
+### Was müssen Schüler unbedingt wissen?
+* Aufgaben, die ein Schüler bearbeiten muss, erscheinen in seinem Dashboard unter dem Menüpunkt Aufgaben.
+* Die Abgabefrsit von Aufgaben muss minutengenau eingehalten werden, es gibt keine Möglichkeit einer verspäteten Abgabe.
+* Abgeschlossenbe Aufgaben (Abgabe erfolgt, Bewertung erhalten), sollten durch den Schuler archiviert werden.
+
+Informationen zur Schulcloud für Schülerinnen und Schüler finden Sie in diesem Video:
+
+[![TSC für Schüler](https://img.youtube.com/vi/_ggKUa0e9zk/0.jpg)](https://www.youtube.com/watch?v=_ggKUa0e9zk)
+---
