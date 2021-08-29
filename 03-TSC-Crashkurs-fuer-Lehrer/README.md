@@ -8,6 +8,9 @@ Die TSC unterliegt einer ständigen Weiterentwicklung, was heute funktioniert, k
 
 ---
 
+## Bevor Sie weiterlesen
+Machen Sie sich für Kollegen anderer Schulen sichtbar. Nur so können Sie an offiziellen Weiterbildungen des ThILLM per Videokonferenz teilnehmen.
+
 ## Die Struktur der TSC
 Zum gegenwärtigen Zeitpunk (August 2021) verfügt die TSC über zwei wesentliche Organisationsstrukturen:
 * Kurse
@@ -66,10 +69,12 @@ Beispiele für Teams:
     * Diesem Kalendereintrag können Sie eine Einladung zu einer Videokonferenz zuordnen
 * Teams verfügen über eine Chatfunktion
   * Der Chat ist die einzige Möglichkeit in der TSC, asynchron mit Schülern und Kollegen zu kommunizieren
+
 > Sie benötingen also ein Team, wenn Sie Ihre Schüler zur Teilnahme an einer terminierten Videokonferenz auffordern wollen.
 
 #### Wer legt ein Team für mich an?
 Sie sind der Lehrer, Sie legen das Team an. Niemand nimmt Ihnen diese Arbeit ab.
+
 ---
 
 ## Wie kann ich xyz in der TSC machen?
