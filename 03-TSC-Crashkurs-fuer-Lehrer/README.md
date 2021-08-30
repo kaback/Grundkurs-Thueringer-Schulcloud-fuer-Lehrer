@@ -14,9 +14,14 @@ Hier lernen Sie im Schnelldurchgang, wie Sie Arbetisabläufe, die Sie in der Ver
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wozu braucht man ein Team](#wozu-braucht-man-ein-team)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wer legt ein Team für mich an](#wer-legt-ein-team-für-mich-an)
 
-[FAQ](#faq) 
-[Wie kommuniziere ich asynchron mit Schülern?](#wie-kommuniziere-ich-asynchron-mit-schülern)  
-[Wie plane ich eine Videokonferenz?](#wie-plane-ich-eine-videokonferenz) 
+[FAQ](#faq)  
+&nbsp;&nbsp;&nbsp;[Wie kommuniziere ich asynchron mit Schülern?](#wie-kommuniziere-ich-asynchron-mit-schülern)  
+&nbsp;&nbsp;&nbsp;[Wie plane ich eine Videokonferenz?](#wie-plane-ich-eine-videokonferenz)  
+&nbsp;&nbsp;&nbsp;[Wie plane ich eine Videokonferenz?](#wie-plane-ich-eine-videokonferenz)  
+&nbsp;&nbsp;&nbsp;[Wie erteile ich Kurszeilnehmern eine Aufgabe?](#wie-erteile-ich-kurszeilnehmern-eine-aufgabe)  
+&nbsp;&nbsp;&nbsp;[Was müssen Schüler unbedingt wissen?](#was-müssen-schüler-unbedingt-wissen)
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 
 
