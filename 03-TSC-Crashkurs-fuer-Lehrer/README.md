@@ -1,5 +1,5 @@
 # Crashkurs für Lehrer
-Hier lernen Sie im Schnelldurchgang, wie Sie Arbetisabläufe, die Sie in der Vergangenheit mit Teams und/oder Moodle umgesetzt haben,mit der TSC umsetzen können.
+Hier lernen Sie im Schnelldurchgang, wie die Schulcloud strukturiert ist, und wie Sie Arbeitsabläufe, die Sie in der Vergangenheit eventuell mit Teams und/oder Moodle umgesetzt haben,mit der TSC umsetzen können.
 
 ## Inahlt
 [Vorwort](#vorwort)  
@@ -13,6 +13,23 @@ Hier lernen Sie im Schnelldurchgang, wie Sie Arbetisabläufe, die Sie in der Ver
 &nbsp;&nbsp;&nbsp;[Das Team](#das-team)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wozu braucht man ein Team](#wozu-braucht-man-ein-team)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wer legt ein Team für mich an](#wer-legt-ein-team-für-mich-an)
+
+[Werkzeuge in der TSC](#werkzeuge-in-der-TSC)  
+&nbsp;&nbsp;&nbsp;[Der Stundenplan](#der-stundenplan)  
+&nbsp;&nbsp;&nbsp;[Der Terminkalender](#der-terminkalender)  
+&nbsp;&nbsp;&nbsp;[Aufgaben](#aufgaben)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Alle Aufgaben](#alle-aufgaben)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aktuelle Aufgaben](#aktuelle-aufgaben)  
+&nbsp;&nbsp;&nbsp;[Das Videokonferenzsystem BBB](#das-videokonferenzsystem-bbb)  
+&nbsp;&nbsp;&nbsp;[Der Chat Rocketchat](#der-chat-rocketchat)  
+&nbsp;&nbsp;&nbsp;[GeoGebra Viewer](#geoGebra-viewer)  
+&nbsp;&nbsp;&nbsp;[neXboard](#nexboard)  
+&nbsp;&nbsp;&nbsp;[Etherpad](#etherpad)  
+&nbsp;&nbsp;&nbsp;[Lernmaterial bzw Lern-Store](#lernmaterial-bzw-Lern-store)  
+&nbsp;&nbsp;&nbsp;[Libre Office Online](#libre-office-online)  
+&nbsp;&nbsp;&nbsp;[News bzw Neuigkeiten](#news-bzw-neuigkeiten)
+&nbsp;&nbsp;&nbsp;
+
 
 [FAQ](#faq)  
 &nbsp;&nbsp;&nbsp;[Wie kommuniziere ich asynchron mit Schülern?](#wie-kommuniziere-ich-asynchron-mit-schülern)  
@@ -100,6 +117,56 @@ Beispiele für Teams:
 Sie sind der Lehrer, Sie legen das Team an. Niemand nimmt Ihnen diese Arbeit ab.
 
 ---
+## Werkzeuge in der TSC
+
+Neben den beiden Organisationsstrukturen Team und Kurs bietet die Schulcloud einige nützliche Werkzeuge, die sie in Teams und/oder Kursen einsetzen können. Hier erfahren Sie, welche Werkzeuge das sind und wie Sie diese Werkzeuge einsetzen können.
+
+### Der Stundenplan
+Der Stundenplan wird für alle Nutzer der TSC unter dem Hauptmenüpunkt _Übersicht_ angezeigt.
+
+Wenn Sie beim anlegen eines Kurses die optionale Funktion _Schulstundentermin im Stundenplan anlegen_ nutzen, generiert die Schulcloud einen automatischen Eintrag im Stundenplan aller Kursteilnehmer. So verlieren Sie und Ihre Kursteilnehmer nie den Überblick darüber, wann Ihr Kurs stattfindet.
+
+Hinweis: Die Stundenplanfunktion ist aktuell defekt. Auf der Übersichtsseite der TSC wird dazu folgender Hinweis eingeblendet:
+>__Dein Stundenplan wird aktuell nicht angezeigt. Aufgrund der hohen Nutzungszahlen durch das Lernen zu Hause ist er derzeit für alle Nutzer:innen ausgeblendet. Es liegt nicht an dir.__
+
+### Der Terminkalender
+Der Terminkalender wird unter dem Hauptmenüpunkt _Termine_ angezeigt.
+TBD
+
+### Aufgaben
+TBD
+
+#### Alle Aufgaben
+TBD
+
+#### Aktuelle Aufgaben
+TBD
+
+### Das Videokonferenzsystem BBB
+TBD
+
+### Der Chat Rocketchat
+TBD
+
+### GeoGebra Viewer
+TBD
+
+### neXboard
+TBD
+
+### Etherpad
+TBD
+
+### Lernmaterial bzw Lern-Store
+TBD
+
+### Libre Office Online
+TBD
+
+### News bzw Neuigkeiten
+
+---
+
 
 ## FAQ
 Hier folgt eine kleine Zusammenstellung von typischen Workflows.
