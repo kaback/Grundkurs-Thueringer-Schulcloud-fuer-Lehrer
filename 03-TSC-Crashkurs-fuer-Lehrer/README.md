@@ -43,21 +43,21 @@ Hier lernen Sie im Schnelldurchgang, wie die Schulcloud strukturiert ist, und wi
 
 
 ## Vorwort
-Die TSC verfolgt grundsätzlich einen anderen Ansatz als Teams und auch einen anderen Ansatz als Moodle. Sie müssen also beim Wechsel in die TSC möglicherweise Ihre Arbetisabläufe neu denken und auch auf einige Arbetisabläufe komplett verzichten. Als Lohn für Ihre Mühen bekommen Sie die Chance, Ihren digitalen Unterricht komplett Datenschutzkonform durchzuführen.
+Die TSC verfolgt grundsätzlich einen anderen Ansatz als Teams und auch einen anderen Ansatz als Moodle. Sie müssen also beim Wechsel in die TSC möglicherweise Ihre Arbetisabläufe neu denken und auch auf einige Dinge komplett verzichten. Als Lohn für Ihre Mühen bekommen Sie die Chance, Ihren digitalen Unterricht komplett Datenschutzkonform durchzuführen.
 
 Die TSC unterliegt einer ständigen Weiterentwicklung, was heute funktioniert, kann schon morgen kaputt sein, und umgekehrt. Nutzen Sie diesen Crashkurs also mit Vorsicht.
 
 ---
 
 ## Bevor Sie weiterlesen
-Machen Sie sich für Kollegen anderer Schulen sichtbar. Nur so können Sie an offiziellen Weiterbildungen des ThILLM per Videokonferenz teilnehmen.
+Machen Sie sich für Kollegen anderer Schulen sichtbar. Nur so können Sie an internen und externen Videokonferenzen teilnehmen. Klicken Sie dazu rechts oben auf Ihren Avatar bzw auf Ihr Kürzel und wählen Sie unter _Einstellungen_ die Funktion _Sichtbarkeit im zentralen Verzeichnis aktivieren_.
 
 ## Organisationsstrukturen in der TSC
-Zum gegenwärtigen Zeitpunk (August 2021) verfügt die TSC über zwei wesentliche Organisationsstrukturen:
+Zum gegenwärtigen Zeitpunkt (August 2021) verfügt die TSC über zwei wesentliche Organisationsstrukturen:
 * Kurse
 * Teams
 
-Beide Strukturen haben unterschiedliche Eigenschaften. Wenn Sie führ Ihren Inhalt die falsche Struktur wählen, machen Sie sich selbst das Leben schwer. Machen Sie sich daher mit den grundlegenden Eigenschaften von Temas und Kursen vertraut:
+Beide Strukturen haben unterschiedliche Eigenschaften. Wenn Sie die falsche Struktur wählen, machen Sie sich selbst das Leben schwer. Machen Sie sich daher mit den grundlegenden Eigenschaften von Temas und Kursen vertraut:
 
 * [Kurse und ihre Bedeutung](https://lernen.cloud/courses/fortbildung_sc2020/items/1Qnvw3j5pPcc06uY85lnqH)
 * [Teams - Grundlagen und Optionen](https://lernen.cloud/courses/fortbildung_sc2020/items/382dtNusdIYQIRCzmvdk5Z)
@@ -68,28 +68,21 @@ Kurse dienen der Vermittlung von Lerninhalten. Wann immer Sie also einen Lerninh
 Daumenregel:
 > Wenn es einen Lehrplan gibt, dann ist es ein Kurs
 
-Beispiele für Kurse:
-* Mathematik Klasse 1a
-* Grundlagen der Elektrotechnik
-
 #### Wozu braucht man einen Kurs?
 * Kurse können Sie in einzelne Thmen untergliedern
   * Die Themen lassen sich in Abschnitte untergliedern
-    * Einzelnen Abschnitten können Sie Aufgaben zuordnen
+    * Einzelnen Abschnitten können Sie Aufgaben und weitere Werkzeuge zuordnen
 > Sie benötigen also einen Kurs mit einem Thema, welches einen Abschnitt enthält, um Ihren Schülern eine Aufgabe stellen zu können!
 
 #### Wer legt einen Kurs für mich an?
 Sie sind der Lehrer, Sie legen den Kurs an. Niemand nimmt Ihnen diese Arbeit ab. 
 * Sie können Kurse gemeinsam mit anderen Lehrern erstellen. 
-  * Wann immer Sie einen Lerninhalt gemeinsam mit Kollegen vermitteln (Lehrerteam), sollten Sie einen gemeinsamen Kurs erstellen. Für Sie bedeutet das, dass Sie sich mit Ihren Kollegen abstimmen müssen. Führ Ihre Schüler bedeutet das eine bessere Übersicht über die zu vermittelnden Lerninhalte
+  * Wann immer Sie einen Lerninhalt gemeinsam mit Kollegen vermitteln (Lehrerteam), sollten Sie einen gemeinsamen Kurs erstellen. Für Sie bedeutet das, dass Sie sich mit Ihren Kollegen abstimmen müssen. Für Ihre Schüler bedeutet das eine bessere Übersicht über die Kurse, in denen die Schüler eingeschrieben sind.
 
 #### Wie strukturiert man einen Kurs?
-Das hängt ganz von Ihnen und Ihren Kursinhalten ab. Schauen Sie sich doch einmal ein paar Beispiele existierende Kurse an:
+Das hängt ganz von Ihnen und Ihren Kursinhalten ab. Schauen Sie sich doch einmal ein paar Beispiele existierender Kurse an:
 * [Good Practice Beispiele aus der HPI-Schulcloud](https://lernen.cloud/courses/goodpractice_sc2020?locale=de)
 * [Unterricht mit der HPI Schulcloud](https://lernen.cloud/courses/fortbildung_sc2020) hier insbesondere den Abschnitt __Die HPI Schulcloud in der Praxis mit z.B. dem Praxisbeispiel von Lena Splittgerber.
-
-#### So ein gut gemachter Kurs in der Schulcloud ist doch ein riesiger Haufen Arbeit für den Lehrer?
-Ja, aber das ist auch in Moodle oder in Teams so.
 
 
 ### Das Team
@@ -106,12 +99,12 @@ Beispiele für Teams:
 
 #### Wozu braucht man ein Team?
 * Teams verfügen über einen Kalender
-  * In diesem Kalender können Sie einen Eintrag erstellen, der im Kalender Ihrer Schüler sichtbar wird.
+  * In diesem Kalender können Sie einen Eintrag erstellen, der im Kalender aller Teammitglieder sichtbar wird.
     * Diesem Kalendereintrag können Sie eine Einladung zu einer Videokonferenz zuordnen
 * Teams verfügen über eine Chatfunktion
   * Der Chat ist die einzige Möglichkeit in der TSC, asynchron mit Schülern und Kollegen zu kommunizieren
 
-> Sie benötingen also ein Team, wenn Sie Ihre Schüler zur Teilnahme an einer terminierten Videokonferenz auffordern wollen.
+> Sie benötingen also ein Team, wenn Sie Ihre Schüler zur Teilnahme an einer __terminierten__ Videokonferenz auffordern wollen.
 
 #### Wer legt ein Team für mich an?
 Sie sind der Lehrer, Sie legen das Team an. Niemand nimmt Ihnen diese Arbeit ab.
@@ -119,12 +112,12 @@ Sie sind der Lehrer, Sie legen das Team an. Niemand nimmt Ihnen diese Arbeit ab.
 ---
 ## Werkzeuge in der TSC
 
-Neben den beiden Organisationsstrukturen Team und Kurs bietet die Schulcloud einige nützliche Werkzeuge, die sie in Teams und/oder Kursen einsetzen können. Hier erfahren Sie, welche Werkzeuge das sind und wie Sie diese Werkzeuge einsetzen können.
+Neben den beiden Organisationsstrukturen Team und Kurs bietet die Schulcloud einige nützliche Werkzeuge, die Sie in Teams und/oder Kursen einsetzen können. Hier erfahren Sie, welche Werkzeuge das sind und wie Sie diese Werkzeuge einsetzen können.
 
 ### Der Stundenplan
 Der Stundenplan wird für alle Nutzer der TSC unter dem Hauptmenüpunkt _Übersicht_ angezeigt.
 
-Wenn Sie beim anlegen eines Kurses die optionale Funktion _Schulstundentermin im Stundenplan anlegen_ nutzen, generiert die Schulcloud einen automatischen Eintrag im Stundenplan aller Kursteilnehmer. So verlieren Sie und Ihre Kursteilnehmer nie den Überblick darüber, wann Ihr Kurs stattfindet.
+Wenn Sie bei der Anlage eines Kurses die optionale Funktion _Schulstundentermin im Stundenplan anlegen_ nutzen, generiert die Schulcloud einen automatischen Eintrag im Stundenplan aller Kursteilnehmer. So verlieren Sie und Ihre Kursteilnehmer nie den Überblick darüber, wann Ihr Kurs stattfindet.
 
 Hinweis: Die Stundenplanfunktion ist aktuell defekt. Auf der Übersichtsseite der TSC wird dazu folgender Hinweis eingeblendet:
 >__Dein Stundenplan wird aktuell nicht angezeigt. Aufgrund der hohen Nutzungszahlen durch das Lernen zu Hause ist er derzeit für alle Nutzer:innen ausgeblendet. Es liegt nicht an dir.__
@@ -171,11 +164,11 @@ TBD
 ## FAQ
 Hier folgt eine kleine Zusammenstellung von typischen Workflows.
 Wichtig:
-> Planen Sie zu jedem Workflow einen Testlauf mit Ihren KursteilnehmerInnen ein. Sturzen Sie weder Sich noch Ihre TeilnehmerInnen ins kalte Wasser!
+> Planen Sie zu jedem Workflow einen Testlauf mit Ihren KursteilnehmerInnen ein. Stürzen Sie weder Sich noch Ihre TeilnehmerInnen ins kalte Wasser!
 
 ### Wie kommuniziere ich asynchron mit Schülern?
 Es gibt zwei Möglichkeiten
-1. Nutzen Sie dazu den Chat in einem Klassenzimmer-Team. Achtung: Die Chatfunktion muss bei der Erstellung eines Teams aktiviert werden.
+1. Nutzen Sie dazu den Chat in einem Klassenzimmer-Team. Achtung: Die Chatfunktion muss bei der Erstellung eines Teams _doppelt_ aktiviert werden.
 1. Per E-Mail. Legen Sie dazu eine Liste in Ihrem Thüringer Lehrer-Mailaccount an.
 
 ### Wie plane ich eine Videokonferenz?
@@ -189,7 +182,7 @@ Es gibt mehrere Möglichkeiten
 1. Fügen Sie einem existierenden Thema innerhalb eines Kurses eine Aufgabe hinzu.
 2. Erstellen Sie eine Aufgabe über Aufgaben->Aufgabe hinzufügen, hierzu muss bereits ein Kurs mit einem Thema existieren
 
-Aufgaben können auch ohne eindeutige Zuordnung zu einem Thema eines Kurses erstellt werden, sie erhalten dann aber einen Entwurfsstatus und sind nur für Sie selbst sichtbar (privat)
+Aufgaben können auch ohne eindeutige Zuordnung zu einem Thema eines Kurses erstellt werden, sie erhalten dann aber einen Entwurfsstatus und sind nur für Sie selbst sichtbar (Status privat).
 
 Wenn Sie die gleiche Aufgabe in mehreren Kursen stellen wollen, können Sie bestehende Aufgaben duplizieren.
 
@@ -197,10 +190,10 @@ Diese lose Kopplung von Aufgaben und Kursthemen bietet Vor- und Nachteile. So bl
 
 ### Was müssen Schüler unbedingt wissen?
 * Aufgaben, die ein Schüler bearbeiten muss, erscheinen in seinem Dashboard unter dem Menüpunkt Aufgaben.
-* Die Abgabefrsit von Aufgaben muss minutengenau eingehalten werden, es gibt keine Möglichkeit einer verspäteten Abgabe.
-* Abgeschlossenbe Aufgaben (Abgabe erfolgt, Bewertung erhalten), sollten durch den Schuler archiviert werden.
+* Die Abgabefrist von Aufgaben muss minutengenau eingehalten werden, es gibt keine Möglichkeit einer verspäteten Abgabe.
+* Abgeschlossenbe Aufgaben (Abgabe erfolgt, Bewertung erhalten), sollten durch den Schüler archiviert werden.
 
-Informationen zur Schulcloud für Schülerinnen und Schüler finden Sie in diesem Video:
+Ausführliche Informationen zur Schulcloud für Schülerinnen und Schüler finden Sie in diesem Video:
 
 [![TSC für Schüler](https://img.youtube.com/vi/_ggKUa0e9zk/0.jpg)](https://www.youtube.com/watch?v=_ggKUa0e9zk)
 ---
