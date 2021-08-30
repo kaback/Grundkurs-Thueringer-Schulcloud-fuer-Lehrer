@@ -2,11 +2,11 @@
 Hier lernen Sie im Schnelldurchgang, wie Sie Arbetisabläufe, die Sie in der Vergangenheit mit Teams und/oder Moodle umgesetzt haben,mit der TSC umsetzen können.
 
 ## Inahlt
-[Vorwort](##vorwort)  
-[Bevor Sie weiterlesen](##bevor-sie-weiterlesen)  
-[Organisationsstrukturen in der TSC](##organisationsstrukturen-in-der-tsc)  
-&nbsp;&nbsp;&nbsp;[Der Kurs](###der-kurs)  
-&nbsp;&nbsp;&nbsp;[Das Team](###das-team)  
+[Vorwort](#vorwort)  
+[Bevor Sie weiterlesen](#bevor-sie-weiterlesen)  
+[Organisationsstrukturen in der TSC](#organisationsstrukturen-in-der-tsc)  
+&nbsp;&nbsp;&nbsp;[Der Kurs](#der-kurs)  
+&nbsp;&nbsp;&nbsp;[Das Team](#das-team)  
 
 ## Vorwort
 Die TSC verfolgt grundsätzlich einen anderen Ansatz als Teams und auch einen anderen Ansatz als Moodle. Sie müssen also beim Wechsel in die TSC möglicherweise Ihre Arbetisabläufe neu denken und auch auf einige Arbetisabläufe komplett verzichten. Als Lohn für Ihre Mühen bekommen Sie die Chance, Ihren digitalen Unterricht komplett Datenschutzkonform durchzuführen.
