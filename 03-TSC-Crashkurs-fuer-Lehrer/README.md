@@ -3,14 +3,22 @@ Hier lernen Sie im Schnelldurchgang, wie Sie Arbetisabläufe, die Sie in der Ver
 
 ## Inahlt
 [Vorwort](#vorwort)  
-[Bevor Sie weiterlesen](#bevor-sie-weiterlesen)  
+[Bevor Sie weiterlesen](#bevor-sie-weiterlesen)
+
 [Organisationsstrukturen in der TSC](#organisationsstrukturen-in-der-tsc)  
 &nbsp;&nbsp;&nbsp;[Der Kurs](#der-kurs)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wozu braucht man einen Kurs](#wozu-braucht-man-einen-kurs)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wer legt einen Kurs für mich an](#wer-legt-einen-kurs-für-mich-an)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wie strukturiert man einen Kurs](#wie-strukturiert-man-einen-kurs)  
 &nbsp;&nbsp;&nbsp;[Das Team](#das-team)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wozu braucht man ein Team](#wozu-braucht-man-ein-team)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wer legt ein Team für mich an](#wer-legt-ein-team-für-mich-an)
+
+[FAQ](#faq) 
+[Wie kommuniziere ich asynchron mit Schülern?](#wie-kommuniziere-ich-asynchron-mit-schülern)  
+[Wie plane ich eine Videokonferenz?](#wie-plane-ich-eine-videokonferenz) 
+
+
 
 ## Vorwort
 Die TSC verfolgt grundsätzlich einen anderen Ansatz als Teams und auch einen anderen Ansatz als Moodle. Sie müssen also beim Wechsel in die TSC möglicherweise Ihre Arbetisabläufe neu denken und auch auf einige Arbetisabläufe komplett verzichten. Als Lohn für Ihre Mühen bekommen Sie die Chance, Ihren digitalen Unterricht komplett Datenschutzkonform durchzuführen.
@@ -54,7 +62,7 @@ Sie sind der Lehrer, Sie legen den Kurs an. Niemand nimmt Ihnen diese Arbeit ab.
   * Wann immer Sie einen Lerninhalt gemeinsam mit Kollegen vermitteln (Lehrerteam), sollten Sie einen gemeinsamen Kurs erstellen. Für Sie bedeutet das, dass Sie sich mit Ihren Kollegen abstimmen müssen. Führ Ihre Schüler bedeutet das eine bessere Übersicht über die zu vermittelnden Lerninhalte
 
 #### Wie strukturiert man einen Kurs?
-Schauen Sie sich Beispiele existierende Kurse an.
+Das hängt ganz von Ihnen und Ihren Kursinhalten ab. Schauen Sie sich doch einmal ein paar Beispiele existierende Kurse an:
 * [Good Practice Beispiele aus der HPI-Schulcloud](https://lernen.cloud/courses/goodpractice_sc2020?locale=de)
 * [Unterricht mit der HPI Schulcloud](https://lernen.cloud/courses/fortbildung_sc2020) hier insbesondere den Abschnitt __Die HPI Schulcloud in der Praxis mit z.B. dem Praxisbeispiel von Lena Splittgerber.
 
@@ -88,7 +96,7 @@ Sie sind der Lehrer, Sie legen das Team an. Niemand nimmt Ihnen diese Arbeit ab.
 
 ---
 
-## Wie kann ich xyz in der TSC machen?
+## FAQ
 Hier folgt eine kleine Zusammenstellung von typischen Workflows.
 Wichtig:
 > Planen Sie zu jedem Workflow einen Testlauf mit Ihren KursteilnehmerInnen ein. Sturzen Sie weder Sich noch Ihre TeilnehmerInnen ins kalte Wasser!
