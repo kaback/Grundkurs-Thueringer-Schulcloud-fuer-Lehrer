@@ -1,6 +1,13 @@
 # Crashkurs für Lehrer
 Hier lernen Sie im Schnelldurchgang, wie Sie Arbetisabläufe, die Sie in der Vergangenheit mit Teams und/oder Moodle umgesetzt haben,mit der TSC umsetzen können.
 
+## Inahlt
+[Vorwort](##vorwort)  
+[Bevor Sie weiterlesen](##bevor-sie-weiterlesen)  
+[Organisationsstrukturen in der TSC](##organisationsstrukturen-in-der-tsc)  
+&nbsp;&nbsp;&nbsp;[Der Kurs](###der-kurs)  
+&nbsp;&nbsp;&nbsp;[Das Team](###das-team)  
+
 ## Vorwort
 Die TSC verfolgt grundsätzlich einen anderen Ansatz als Teams und auch einen anderen Ansatz als Moodle. Sie müssen also beim Wechsel in die TSC möglicherweise Ihre Arbetisabläufe neu denken und auch auf einige Arbetisabläufe komplett verzichten. Als Lohn für Ihre Mühen bekommen Sie die Chance, Ihren digitalen Unterricht komplett Datenschutzkonform durchzuführen.
 
@@ -11,7 +18,7 @@ Die TSC unterliegt einer ständigen Weiterentwicklung, was heute funktioniert, k
 ## Bevor Sie weiterlesen
 Machen Sie sich für Kollegen anderer Schulen sichtbar. Nur so können Sie an offiziellen Weiterbildungen des ThILLM per Videokonferenz teilnehmen.
 
-## Die Struktur der TSC
+## Organisationsstrukturen in der TSC
 Zum gegenwärtigen Zeitpunk (August 2021) verfügt die TSC über zwei wesentliche Organisationsstrukturen:
 * Kurse
 * Teams
@@ -21,7 +28,7 @@ Beide Strukturen haben unterschiedliche Eigenschaften. Wenn Sie führ Ihren Inha
 * [Kurse und ihre Bedeutung](https://lernen.cloud/courses/fortbildung_sc2020/items/1Qnvw3j5pPcc06uY85lnqH)
 * [Teams - Grundlagen und Optionen](https://lernen.cloud/courses/fortbildung_sc2020/items/382dtNusdIYQIRCzmvdk5Z)
 
-### Organisationsstruktur Kurs
+### Der Kurs
 Kurse dienen der Vermittlung von Lerninhalten. Wann immer Sie also einen Lerninhalt vermitteln wollen, erstellen und nutzen Sie bitte die Organisationsstruktur Kurs.
 
 Daumenregel:
@@ -51,7 +58,7 @@ Schauen Sie sich Beispiele existierende Kurse an.
 Ja, aber das ist auch in Moodle oder in Teams so.
 
 
-### Organisationsstruktur Team
+### Das Team
 Ein Team in der TSC dient der Organisation. Wann immer Sie ein organisatorisches Anliegen haben, nutzen Sie ein Team.
 
 Daumenregel:
