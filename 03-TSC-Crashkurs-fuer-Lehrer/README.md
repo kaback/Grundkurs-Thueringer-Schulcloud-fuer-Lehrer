@@ -6,7 +6,11 @@ Hier lernen Sie im Schnelldurchgang, wie Sie Arbetisabläufe, die Sie in der Ver
 [Bevor Sie weiterlesen](#bevor-sie-weiterlesen)  
 [Organisationsstrukturen in der TSC](#organisationsstrukturen-in-der-tsc)  
 &nbsp;&nbsp;&nbsp;[Der Kurs](#der-kurs)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wozu braucht man einen Kurs](#wozu-braucht-man-einen-kurs)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wer legt einen Kurs für mich an](#wer-legt-einen-kurs-für-mich-an)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wie strukturiert man einen Kurs](#wie-strukturiert-man-einen-kurs)  
 &nbsp;&nbsp;&nbsp;[Das Team](#das-team)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Vorwort
 Die TSC verfolgt grundsätzlich einen anderen Ansatz als Teams und auch einen anderen Ansatz als Moodle. Sie müssen also beim Wechsel in die TSC möglicherweise Ihre Arbetisabläufe neu denken und auch auf einige Arbetisabläufe komplett verzichten. Als Lohn für Ihre Mühen bekommen Sie die Chance, Ihren digitalen Unterricht komplett Datenschutzkonform durchzuführen.
