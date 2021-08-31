@@ -28,6 +28,12 @@ Bitte beachten Sie, dass es sich bei der Thüringer Schulcloud um eine spezielle
 
 ## Hilfebereich in der Thüringer Schulcloud
 * Auch die Thüringer Schulcloud hat einen Hilfebereich, den Sie im Menü der Schulcloud links unten finden können.
+  * Das Untermenü Hilfeartikel verlinkt auf Dokumentationsseiten der Thüringer Schulcloud.
+  * Das Untermenü Fortbildungen verlinkt auf das Kustangebot von [lernen.cloud](https://lernen.cloud).
+
+![Hilfebereich im Menü der TSC](https://github.com/kaback/Grundkurs-Thueringer-Schulcloud-fuer-Lehrer/blob/main/02-Informationsquellen-zur-Arbeit-mit-der-TSC/tsc-menue-hilfebereich.png?raw=true)
+
+
 
 ## Selbstlernkurse auf lernen.cloud
 * Der Kurs [Unterrichten mit der HPI Schul-Cloud](https://lernen.cloud/courses/fortbildung_sc2020) ist in weiten Teilen auch auf die Thüringer Variante der Schulcloud anwendbar
