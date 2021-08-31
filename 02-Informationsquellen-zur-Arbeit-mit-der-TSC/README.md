@@ -37,4 +37,5 @@ Bitte beachten Sie, dass es sich bei der Thüringer Schulcloud um eine spezielle
 
 ## Selbstlernkurse auf lernen.cloud
 * Der Kurs [Unterrichten mit der HPI Schul-Cloud](https://lernen.cloud/courses/fortbildung_sc2020) ist in weiten Teilen auch auf die Thüringer Variante der Schulcloud anwendbar
+* Der Kurs [Good Practice Beispiele aus der HPI Schul-Cloud](https://lernen.cloud/courses/goodpractice_sc2020?locale=de) zeigt viele Beispiele für die Anwendung der Schulcloud aus der Praxis. Hier lernen Sie von den Erfahrungen anderer Lehrer und können sich Tipps und Tricks abschauen.
 * Auf [lernen.cloud](https://lernen.cloud/) finden Sie und Ihre SchülerInnen auch weitere nützliche Lernangebote für den (digitalen) Schulalltag
