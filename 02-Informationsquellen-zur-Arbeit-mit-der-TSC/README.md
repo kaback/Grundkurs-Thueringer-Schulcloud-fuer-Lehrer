@@ -26,6 +26,9 @@ Bitte beachten Sie, dass es sich bei der Thüringer Schulcloud um eine spezielle
 ## Hilfebereich der HPI Schulcloud
 * Der [Hilfebereich der HPI Schul-Cloud](https://docs.hpi-schul-cloud.org/display/SCDOK/Hilfebereich+der+HPI+Schul-Cloud) liefert umfassende Informationen zum Umgang mit der Schulcloud, aber vorsicht, auf die Besonderheite der Thüringer Variante der Schulcloud _wird nicht explizit hingewiesen_!
 
+## Hilfebereich in der Thüringer Schulcloud
+* Auch die Thüringer Schulcloud hat einen Hilfebereich, den Sie im Menü der Schulcloud links unten finden können.
+
 ## Selbstlernkurse auf lernen.cloud
 * Der Kurs [Unterrichten mit der HPI Schul-Cloud](https://lernen.cloud/courses/fortbildung_sc2020) ist in weiten Teilen auch auf die Thüringer Variante der Schulcloud anwendbar
 * Auf [lernen.cloud](https://lernen.cloud/) finden Sie und Ihre SchülerInnen auch weitere nützliche Lernangebote für den (digitalen) Schulalltag
