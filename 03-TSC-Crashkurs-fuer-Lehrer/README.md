@@ -69,7 +69,7 @@ Daumenregel:
 > Wenn es einen Lehrplan gibt, dann ist es ein Kurs
 
 #### Wozu braucht man einen Kurs?
-* Kurse können Sie in einzelne Thmen untergliedern
+* Kurse können Sie in einzelne Themen untergliedern
   * Die Themen lassen sich in Abschnitte untergliedern
     * Einzelnen Abschnitten können Sie Aufgaben und weitere Werkzeuge zuordnen
 > Sie benötigen also einen Kurs mit einem Thema, welches einen Abschnitt enthält, um Ihren Schülern eine Aufgabe stellen zu können!
