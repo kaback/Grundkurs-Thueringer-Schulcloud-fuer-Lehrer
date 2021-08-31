@@ -1,5 +1,9 @@
 # Informationsquellen zur Arbeit mit der TSC
 
+hier finden Sie Hinweise zu im Netz verfügbaren Materialen, mit deren Hilfe Sie sich selbst darüber informieren können, welche Möglichkeiten Ihnen die Arbeit mit der Thüringer Schulcloud eröffnet.
+
+Bitte beachten Sie, dass es sich bei der Thüringer Schulcloud um eine spezielle Variante der HPI-Schulcloud handelt. Ressourcen, die den Umgang mit der HPI-Schulcloud beschreiben, sind auf die Thüringer Variante unter Umständen nicht anwendbar.
+
 ## Inhalt
 [Fortbildungsangebote des ThILLM](#forbildungsangebote-des_thillm)  
 [Materialien in der Mediothek des Thüringer Schulportals](#materialien-in-der-mediothek-des-thueringer-schulportals)  
@@ -7,11 +11,6 @@
 [Hilfebereich der HPI Schulcloud](#hilfebereich-der-hpi-schulcloud)  
 [Hilfebereich der Thüringer Schulcloud](#hilfebereich-der-thüringer-schulcloud)  
 [Selbstlernkurse auf lernen.cloud](#selbstlernkurse-auf-lernen.cloud)
-
-## Was Sie hier finden
-hier finden Sie Hinweise zu im Netz verfügbaren Materialen, mit deren Hilfe Sie sich selbst darüber informieren können, welche Möglichkeiten Ihnen die Arbeit mit der Thüringer Schulcloud eröffnet.
-
-Bitte beachten Sie, dass es sich bei der Thüringer Schulcloud um eine spezielle Variante der HPI-Schulcloud handelt. Ressourcen, die den Umgang mit der HPI-Schulcloud beschreiben, sind auf die Thüringer Variante unter Umständen nicht anwendbar.
 
 ## Forbildungsangebote des ThILLM
 * Suchen Sie im [Veranstaltungskatalog des ThILLM](https://www.schulportal-thueringen.de/catalog) nach "Schulcloud"
