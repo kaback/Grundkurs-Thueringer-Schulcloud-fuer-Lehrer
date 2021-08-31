@@ -1,4 +1,4 @@
-# Materialien zur Arbeit mit der TSC
+# Informationsquellen zur Arbeit mit der TSC
 hier finden Sie Hinweise zu im Netz verfügbaren Materialen, mit deren Hilfe Sie sich selbst darüber informieren können, welche Möglichkeiten Ihnen die Arbeit mit der Thüringer Schulcloud eröffnet.
 
 Bitte beachten Sie, dass es sich bei der Thüringer Schulcloud um eine spezielle Variante der HPI-Schulcloud handelt. Ressourcen, die den Umgang mit der HPI-Schulcloud beschreiben, sind auf die Thüringer Variante unter Umständen nicht anwendbar.
