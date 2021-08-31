@@ -75,7 +75,11 @@ Daumenregel:
 > Sie benötigen also einen Kurs mit einem Thema, welches einen Abschnitt enthält, um Ihren Schülern eine Aufgabe stellen zu können!
 
 #### Wer legt einen Kurs für mich an?
-Sie sind der Lehrer, Sie legen den Kurs an. Niemand nimmt Ihnen diese Arbeit ab. 
+Sie sind der Lehrer, Sie legen den Kurs an. Niemand nimmt Ihnen diese Arbeit ab.
+
+Hinweis
+> Vergeben Sie für Ihren Kurs einen Namen nach dem Muster _Klasse-Inhalt-Lehrer_, also z.B. _EIT19A Elektronik Tv_
+
 * Sie können Kurse gemeinsam mit anderen Lehrern erstellen. 
   * Wann immer Sie einen Lerninhalt gemeinsam mit Kollegen vermitteln (Lehrerteam), sollten Sie einen gemeinsamen Kurs erstellen. Für Sie bedeutet das, dass Sie sich mit Ihren Kollegen abstimmen müssen. Für Ihre Schüler bedeutet das eine bessere Übersicht über die Kurse, in denen die Schüler eingeschrieben sind.
 
