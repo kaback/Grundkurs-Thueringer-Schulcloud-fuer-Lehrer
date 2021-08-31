@@ -121,6 +121,8 @@ Neben den beiden Organisationsstrukturen Team und Kurs bietet die Schulcloud ein
 ### Der Stundenplan
 Der Stundenplan wird für alle Nutzer der TSC unter dem Hauptmenüpunkt _Übersicht_ angezeigt.
 
+![Stundenplan im Hauptmenü der TSC](https://github.com/kaback/Grundkurs-Thueringer-Schulcloud-fuer-Lehrer/blob/main/03-TSC-Crashkurs-fuer-Lehrer/dashboard_stundenplan.png?raw=true)
+
 Wenn Sie bei der Anlage eines Kurses die optionale Funktion _Schulstundentermin im Stundenplan anlegen_ nutzen, generiert die Schulcloud einen automatischen Eintrag im Stundenplan aller Kursteilnehmer. So verlieren Sie und Ihre Kursteilnehmer nie den Überblick darüber, wann Ihr Kurs stattfindet.
 
 Hinweis: Die Stundenplanfunktion ist aktuell defekt. Auf der Übersichtsseite der TSC wird dazu folgender Hinweis eingeblendet:
