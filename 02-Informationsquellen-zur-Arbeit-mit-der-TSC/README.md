@@ -5,6 +5,7 @@
 [Materialien in der Mediothek des Thüringer Schulportals](#materialien-in-der-mediothek-des-thueringer-schulportals)  
 [Die TSC auf Youtube](#die-tsc-auf-youtube)  
 [Hilfebereich der HPI Schulcloud](#hilfebereich-der-hpi-schulcloud)  
+[Hilfebereich der Thüringer Schulcloud](#hilfebereich-der-thüringer-schulcloud)  
 [Selbstlernkurse auf lernen.cloud](#selbstlernkurse-auf-lernen.cloud)
 
 ## Was Sie hier finden
