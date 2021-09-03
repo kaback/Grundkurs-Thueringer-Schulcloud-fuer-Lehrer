@@ -10,7 +10,7 @@ Bitte beachten Sie, dass es sich bei der Thüringer Schulcloud um eine spezielle
 [Die TSC auf Youtube](#die-tsc-auf-youtube)  
 [Hilfebereich der HPI Schulcloud](#hilfebereich-der-hpi-schulcloud)  
 [Hilfebereich der Thüringer Schulcloud](#hilfebereich-der-thüringer-schulcloud)  
-[Selbstlernkurse auf lernen.cloud](#selbstlernkurse-auf-lernen.cloud)
+[Selbstlernkurse auf lernen.cloud](#selbstlernkurse-auf-lernencloud)
 
 ## Forbildungsangebote des ThILLM
 * Suchen Sie im [Veranstaltungskatalog des ThILLM](https://www.schulportal-thueringen.de/catalog) nach "Schulcloud"
