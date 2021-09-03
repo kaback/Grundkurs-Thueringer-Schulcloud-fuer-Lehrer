@@ -19,6 +19,7 @@ Bitte beachten Sie, dass es sich bei der Thüringer Schulcloud um eine spezielle
 ## Materialien in der Mediothek des Thüringer Schulportals
 * die regelmäßig erweiterte [öffentliche Videosammlung (TSC-Wegweiser)](https://www.schulportal-thueringen.de/web/guest/media/detail?tspi=12584
 ) beinhaltet einige kurze Erklärvideos zum Umgang mit der TSC.
+* Das Lernobjekt [Hilfestellungen und Materialien zur Arbeit mit der TSC](https://www.schulportal-thueringen.de/web/guest/media/detail?tspi=12581) in der Mediothek des Schulportals
 
 ## Die TSC auf YouTube
 * eine laufend erweiterte [YouTube-Playlist](https://www.youtube.com/playlist?list=PL92TidOtRHpWIrFOa5K_hhIGROTEKaOt5) des Thüringer Schulportals enthält viele Videos aus der Reihe "TSC-Wegweiser"
