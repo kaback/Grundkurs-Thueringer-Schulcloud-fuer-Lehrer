@@ -1,5 +1,5 @@
 <!-- Überschrift und Abstract-->
-# Bekannte Probleme der Thüringer SChulcloud
+# Bekannte Probleme der Thüringer Schulcloud
 Hier finden Sie Informationen zum geschichtlichen Hintergrund der Thüringer Schulcloud, ohne Anspruch auf Vollständigkeit.
 
 ## Inhalt
