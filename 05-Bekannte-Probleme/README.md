@@ -26,5 +26,11 @@ Bekannt seit: ewig
 
 Beschreibung: Der eingebaute Stundenplan der TSC ist deaktiviert. In Kursen hinterlegte Unterrichtszeiten werden zwar auch im Kalender angezeigt, der Stundenplan würde diese Informationen aber viel übersichtlicher darstellen. Der deaktivierte Stundenplan belegt zudem sehr viel Platz auf dem Dashboard.
 
+### Synchronisation zwischen Schulportal und Schulcloud dauert sehr lang
+Bekannt seit: ewig
+
+Beschreibung: Änderungen an Schülerdaten und Klasseninformationen müssen in der thüringer Variante der Schulcloud über einen entsprechenden Bereich im Schulportal vorgenommen werden, da die entsprechenden Verwaltungsfunktionen in der Schulcloud in Thüringen aus Datenschutzgründen deaktivert sind . Zwischen den beiden Systemen findet eine regelmäßige Synchronisation statt. Diese dauert allerdings häufig sehr lang ( ~1 Tag). Änderungen an Schüler- und Klassendaten wirken sich so nur mit sehr großer zeitlicher Verzögerung aus.
+
+
 ## Gelöste Probleme
 Sie finden hier eine Liste mit gelösten Poblemen der Thüringer Schulcloud, ohne Anspruch auf Vollständigkeit und Richtigkeit
