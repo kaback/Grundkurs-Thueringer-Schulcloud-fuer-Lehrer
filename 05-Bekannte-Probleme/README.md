@@ -21,5 +21,10 @@ Bekannt seit: ewig
 
 Beschreibung: Wenn SuS Teammitglieder sind, bleiben sie auch dann Mitglied des Teams, wenn sie bereits archiviert wurden.
 
+### Der Stundenplan ist deaktiviert
+Bekannt seit: ewig
+
+Beschreibung: Der eingebaute Stundenplan der TSC ist deaktiviert. In Kursen hinterlegte Unterrichtszeiten werden zwar auch im Kalender angezeigt, der Stundenplan würde diese Informationen aber viel übersichtlicher darstellen. Der deaktivierte Stundenplan belegt zudem sehr viel Platz auf dem Dashboard.
+
 ## Gelöste Probleme
 Sie finden hier eine Liste mit gelösten Poblemen der Thüringer Schulcloud, ohne Anspruch auf Vollständigkeit und Richtigkeit
