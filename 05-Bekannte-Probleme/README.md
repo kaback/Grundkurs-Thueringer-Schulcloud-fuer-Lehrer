@@ -11,6 +11,12 @@ Hier finden Sie Informationen zum geschichtlichen Hintergrund der Thüringer Sch
 
 ## Bekannte, ungelöste Probleme
 Sie finden hier eine Liste mit bekannten und ungelösten Poblemen der Thüringer Schulcloud, ohne Anspruch auf Vollständigkeit und Richtigkeit
+
+### neXboards lassen sich nachträglich nicht mehr umbenennen
+bekannt seit: ewig
+
+Beschreibung: Der name eines einmal in einem Abschnitt eines Kurses angelegten neXboards kann nachträglich nicht mehr verändert werden. Das ist ärgerlichm wenn man sich z.B. vertippt hat, oder wenn man die Beschreibung des Arbeitsauftrages versehentlich in das falsche Feld eingetragen hat.
+
 ### Nur der ursprüngliche Eigentümer kann Teammitglieder verwalten
 bekannt seit: ewig
 
