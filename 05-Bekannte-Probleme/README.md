@@ -12,6 +12,11 @@ Hier finden Sie Informationen zum geschichtlichen Hintergrund der Thüringer Sch
 ## Bekannte, ungelöste Probleme
 Sie finden hier eine Liste mit bekannten und ungelösten Poblemen der Thüringer Schulcloud, ohne Anspruch auf Vollständigkeit und Richtigkeit
 
+### neXboard stürzt ab, wenn ein langer Name vergeben wird
+bekannt seit: September 2021
+
+Beschreibung: nexBoard stürzt ab, wenn man ihm einen sehr langen Namen gibt und mit der Maus über den Namen hoovert. Das ist ärgerlicht, weil man das neXboard nachträglich nicht umbenennen kann.
+
 ### neXboards lassen sich nachträglich nicht mehr umbenennen
 bekannt seit: ewig
 
